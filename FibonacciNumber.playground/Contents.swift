@@ -29,3 +29,8 @@ func featureA()
 {
     var version = 1.1
 }
+
+func featureB()
+{
+     var version = 1.2
+}
