@@ -4,7 +4,7 @@ var result = 1
 var number = 0
 var number2 = 1
 
-
+// bug fixed
 repeat {
     result = (number + number2)
     number = number2
