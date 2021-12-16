@@ -23,3 +23,9 @@ repeat {
     }
     //if te result is less than 1000, continue the loop
 }while (result < 1000 )
+
+
+func featureA()
+{
+    var version = 1.1
+}
