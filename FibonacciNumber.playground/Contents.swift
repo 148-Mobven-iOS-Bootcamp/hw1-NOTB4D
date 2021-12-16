@@ -1,3 +1,8 @@
+/*
+ this program written by Eser
+ */
+
+
 import UIKit
 // we defined our variables and assigned their initial values
 var result = 1
